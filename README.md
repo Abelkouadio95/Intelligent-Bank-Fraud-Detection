@@ -1,2 +1,2 @@
 # Intelligent-Bank-Fraud-Detection
-Fraud detection machine learning + fastAPI.
+Fraud detection machine learning + fastAPI..
